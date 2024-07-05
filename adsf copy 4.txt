@@ -1,1 +1,1 @@
-vawrasdfzvg
+alert("게임 시작")
